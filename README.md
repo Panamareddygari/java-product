@@ -1,3 +1,3 @@
 # java-product
 ls
-main
+main.tf
